@@ -26,6 +26,10 @@ commands:
     description: give testing sword
     usage: /sword <damage>
     permission: skills.admin
+  wand:
+    description: give fire wand with custom damage
+    usage: /wand <damage>
+    permission: skills.admin
 
 permissions:
   skills.use:

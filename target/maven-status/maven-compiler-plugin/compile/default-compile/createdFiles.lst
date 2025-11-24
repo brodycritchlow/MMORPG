@@ -2,9 +2,12 @@ com/thornily/skills/database/DatabaseManager.class
 com/thornily/skills/SkillsPlugin.class
 com/thornily/skills/listeners/SkillGainListener$2.class
 com/thornily/skills/utils/SkillUtils.class
+com/thornily/skills/listeners/WandListener$1.class
 com/thornily/skills/managers/SkillManager.class
 com/thornily/skills/commands/SkillsCommand.class
+com/thornily/skills/listeners/WandListener.class
 com/thornily/skills/models/Skill.class
+com/thornily/skills/commands/WandCommand.class
 com/thornily/skills/models/PlayerSkills.class
 com/thornily/skills/commands/QueryCommand.class
 com/thornily/skills/commands/SkillsCommand$1.class

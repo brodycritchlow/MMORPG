@@ -6,12 +6,12 @@ import org.bukkit.event.inventory.InventoryClickEvent;
 
 public class SkillsGUIListener implements Listener {
 
-    @EventHandler
-    public void onInventoryClick(InventoryClickEvent event) {
-        String title = event.getView().getTitle();
+  @EventHandler
+  public void onInventoryClick(InventoryClickEvent event) {
+    String title = event.getView().getTitle();
 
-        if (title.contains("Your Skills")) {
-            event.setCancelled(true);
-        }
+    if (title.contains("Your Skills")) {
+      event.setCancelled(true);
     }
+  }
 }

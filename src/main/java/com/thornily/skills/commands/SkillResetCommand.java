@@ -8,14 +8,13 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
 public class SkillResetCommand implements CommandExecutor {
-    private final SkillsPlugin plugin;
+  private final SkillsPlugin plugin;
 
-    public SkillResetCommand(SkillsPlugin plugin) {
-        this.plugin = plugin;
-    }
+  public SkillResetCommand(SkillsPlugin plugin) { this.plugin = plugin; }
 
-    @Override
-    public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
-        return false;
-    }
+  @Override
+  public boolean onCommand(CommandSender sender, Command command, String label,
+                           String[] args) {
+    return false;
+  }
 }
