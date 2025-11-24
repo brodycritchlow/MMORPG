@@ -1,0 +1,42 @@
+name: SkillsPlugin
+version: 1.0.0
+main: com.thornily.skills.SkillsPlugin
+api-version: 1.21
+author: thornily
+description: A comprehensive skills system for Minecraft
+
+commands:
+  skills:
+    description: View your skills
+    usage: /skills [player]
+    aliases: [skill, sk]
+  skillset:
+    description: Manage skills (admin)
+    usage: /skillset <player> <skill> <level>
+    permission: skills.admin
+  skillreset:
+    description: Reset a player's skills
+    usage: /skillreset <player> [skill]
+    permission: skills.admin
+  query:
+    description: Execute database queries (operators only)
+    usage: /query <sql>
+    permission: skills.admin
+  sword:
+    description: give testing sword
+    usage: /sword <damage>
+    permission: skills.admin
+
+permissions:
+  skills.use:
+    description: Allows using the skills system
+    default: true
+  skills.view:
+    description: Allows viewing own skills
+    default: true
+  skills.view.others:
+    description: Allows viewing other players' skills
+    default: op
+  skills.admin:
+    description: Allows managing skills
+    default: op

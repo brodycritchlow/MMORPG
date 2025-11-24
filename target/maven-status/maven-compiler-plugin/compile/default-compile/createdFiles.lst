@@ -1,0 +1,17 @@
+com/thornily/skills/database/DatabaseManager.class
+com/thornily/skills/SkillsPlugin.class
+com/thornily/skills/listeners/SkillGainListener$2.class
+com/thornily/skills/utils/SkillUtils.class
+com/thornily/skills/managers/SkillManager.class
+com/thornily/skills/commands/SkillsCommand.class
+com/thornily/skills/models/Skill.class
+com/thornily/skills/models/PlayerSkills.class
+com/thornily/skills/commands/QueryCommand.class
+com/thornily/skills/commands/SkillsCommand$1.class
+com/thornily/skills/listeners/SkillsGUIListener.class
+com/thornily/skills/listeners/SkillGainListener.class
+com/thornily/skills/commands/SkillSetCommand.class
+com/thornily/skills/listeners/SkillGainListener$1.class
+com/thornily/skills/models/SkillData.class
+com/thornily/skills/commands/SwordCommand.class
+com/thornily/skills/commands/SkillResetCommand.class

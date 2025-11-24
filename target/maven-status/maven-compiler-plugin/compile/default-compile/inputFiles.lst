@@ -1,0 +1,14 @@
+/Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/SkillsPlugin.java
+/Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/commands/QueryCommand.java
+/Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/commands/SkillResetCommand.java
+/Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/commands/SkillSetCommand.java
+/Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/commands/SkillsCommand.java
+/Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/commands/SwordCommand.java
+/Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/database/DatabaseManager.java
+/Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/listeners/SkillGainListener.java
+/Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/listeners/SkillsGUIListener.java
+/Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/managers/SkillManager.java
+/Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/models/PlayerSkills.java
+/Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/models/Skill.java
+/Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/models/SkillData.java
+/Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/utils/SkillUtils.java
