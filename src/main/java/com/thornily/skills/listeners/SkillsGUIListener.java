@@ -10,7 +10,7 @@ public class SkillsGUIListener implements Listener {
   public void onInventoryClick(InventoryClickEvent event) {
     String title = event.getView().getTitle();
 
-    if (title.contains("Your Skills")) {
+    if (title.contains("Your Skills") || title.contains("Combat Stats")) {
       event.setCancelled(true);
     }
   }

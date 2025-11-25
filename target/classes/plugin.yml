@@ -22,14 +22,15 @@ commands:
     description: Execute database queries (operators only)
     usage: /query <sql>
     permission: skills.admin
-  sword:
-    description: give testing sword
-    usage: /sword <damage>
+  admin-utils:
+    description: Admin utilities for spawning items
+    usage: /admin-utils spawn <item> [damage]
+    aliases: [au, adminutils]
     permission: skills.admin
-  wand:
-    description: give fire wand with custom damage
-    usage: /wand <damage>
-    permission: skills.admin
+  stats:
+    description: View combat statistics
+    usage: /stats [player]
+    aliases: [stat, statistics]
 
 permissions:
   skills.use:
