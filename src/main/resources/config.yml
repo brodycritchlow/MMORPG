@@ -30,3 +30,10 @@ cooking_xp:
   COOKED_KELP: 3.0
 
   DEFAULT: 5.0
+
+cooking:
+  slot_timeout_minutes: 30
+  cook_time_base: 600
+  cook_time_reduction_per_level: 5
+  burn_chance_base: 0.65
+  burn_chance_decay: 0.045

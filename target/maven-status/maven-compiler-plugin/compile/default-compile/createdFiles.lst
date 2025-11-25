@@ -1,5 +1,6 @@
 com/thornily/skills/commands/AdminUtilsCommand$Rarity.class
 com/thornily/skills/listeners/WarriorArmorEquipListener.class
+com/thornily/skills/listeners/CookingListener$1.class
 com/thornily/skills/commands/AdminUtilsCommand$ArmorStats.class
 com/thornily/skills/commands/AdminUtilsCommand$BladedancerTier.class
 com/thornily/skills/listeners/MultiHitListener$2.class
@@ -31,6 +32,7 @@ com/thornily/skills/listeners/WandListener$1.class
 com/thornily/skills/utils/NBTKeys.class
 com/thornily/skills/models/Skill.class
 com/thornily/skills/commands/AdminUtilsCommand$ArmorTier.class
+com/thornily/skills/models/CampfireSlot.class
 com/thornily/skills/commands/QueryCommand.class
 com/thornily/skills/listeners/VolatileArmorListener.class
 com/thornily/skills/commands/AdminUtilsCommand.class

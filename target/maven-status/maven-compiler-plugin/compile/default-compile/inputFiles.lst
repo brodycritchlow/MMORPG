@@ -15,6 +15,7 @@
 /Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/listeners/WandListener.java
 /Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/listeners/WarriorArmorEquipListener.java
 /Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/managers/SkillManager.java
+/Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/models/CampfireSlot.java
 /Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/models/PlayerSkills.java
 /Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/models/Skill.java
 /Users/brodycritchlow/mc-server/plugin-dev/SkillsPlugin/src/main/java/com/thornily/skills/models/SkillData.java
